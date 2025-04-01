@@ -1,0 +1,15 @@
+.container{
+    padding: 50px;
+}
+
+.caja{
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    display: inline;
+}
+
+.caja:last-child{
+    background-color: blue;
+    color: white;
+}
